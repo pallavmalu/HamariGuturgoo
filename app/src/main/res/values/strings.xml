@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Hamari Guturgoo</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Tiffany</string>
+    <string name="slide_1_desc">Do you hear that?</string>
+
+    <string name="slide_2_title">Mom</string>
+    <string name="slide_2_desc">Hear what?</string>
+
+    <string name="slide_3_title">Tifanny</string>
+    <string name="slide_3_desc">Thats a baby crying!</string>
+
+    <string name="slide_4_title">Mom</string>
+    <string name="slide_4_desc">I am not home.</string>
+
+    <string name="slide_5_title">Mom</string>
+    <string name="slide_5_desc">Wait until I get back.</string>
+
+    <string name="slide_6_title">Tiffany</string>
+    <string name="slide_6_desc">Its coming from the basement!</string>
+
+    <string name="slide_7_title">Mom</string>
+    <string name="slide_7_desc">Don\'t go there, Tiff.</string>
+
+    <string name="play_again_desc">To see the story again, goto Settings -> apps -> Hamari Guturgoo -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
